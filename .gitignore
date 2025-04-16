@@ -1,0 +1,15 @@
+# Ignore scripts
+*.bat
+*.sh
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+
+node_modules/
