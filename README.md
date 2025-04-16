@@ -1,5 +1,5 @@
 
-**Centralized data repository** for my custom-made **idle hack’n’slash** 👾⚔️  
+**Centralized data repository** for my custom-made **idle hack’n’slash** 
 This repo contains all game content in JSON format, served for both the **client and server**.
 
 ---
@@ -7,7 +7,7 @@ This repo contains all game content in JSON format, served for both the **client
 ## Repository Structure
 
 
-> These files are served statically via [Netlify](https://www.netlify.com/) so I can deploy updates instantly without needing to rebuild the game or republish to app stores.
+These files are served statically via [Netlify](https://www.netlify.com/) so I can deploy updates instantly without needing to rebuild the game or republish to app stores.
 
 ## Updating the Data
 
